@@ -1,0 +1,6 @@
+{
+  "name": "Zylvex Technologies — Digital Operations Architecture",
+  "description": "Digital Operations, Security Governance, and Read-Only Infrastructure Portal for Zylvex Technologies Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
